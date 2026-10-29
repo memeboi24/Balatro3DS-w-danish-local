@@ -13,7 +13,7 @@ return {
     ["hand.high_card"] = "Høj kort",
     ["suit.hearts"] = "Hjerter",
     ["suit.clubs"] = "Clubber",
-    ["suit.diamonds"] = "Diamanter",
+    ["suit.diamonds"] = "Ruder",
     ["suit.spades"] = "Spader",
     ["rank.11"] = "Knægt",
     ["rank.12"] = "Dronning",
